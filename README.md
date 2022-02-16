@@ -1,1 +1,1 @@
-# starting_datascience
+# start up with statistics using python  
